@@ -1,3 +1,3 @@
 # gitskills
 git skills exercise
-create a new branch is quick.
+create a new branch is quick & simple.
